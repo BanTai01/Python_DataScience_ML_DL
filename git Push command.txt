@@ -1,3 +1,4 @@
+#### 1st when creat repository
 git status
 git init
 git status
@@ -6,4 +7,10 @@ git status
 git commit -m  "comment"
 SSH------------------which is in GitHub provided command
 git remote -v
+git push origin master
+
+#### then all the time
+git status
+git add .
+git commit -m "comment"
 git push origin master
